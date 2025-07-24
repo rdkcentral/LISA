@@ -1,4 +1,4 @@
-autostart = "true"
+autostart = "false"
 
 configuration = JSON()
 configuration.add("dbpath", "/mnt/apps/dac/db")
