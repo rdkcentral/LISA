@@ -7,7 +7,7 @@
         "callsign": "org.rdk.dac.lisa",
         "locator": "libWPEFrameworkLISA.so",
         "status": "alpha",
-        "autostart": true,
+        "autostart": false,
         "description": [
             "The Local Inventory & Storage Manager of DAC Apps (LISA) plugin allows authenticated downloading and management of DAC bundles from a remote server. It also manages the persistent storage of the DAC applications."
         ],

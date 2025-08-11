@@ -1,4 +1,4 @@
-autostart = "true"
+autostart = "false"
 
 configuration = JSON()
 if not boolean("@PLUGIN_LISA_IMAGE_PATH@"):
